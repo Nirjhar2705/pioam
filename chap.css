@@ -1,0 +1,28 @@
+#abta{
+    width: 100%;
+    border: none;
+    background-color: white;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.2), -3px -3px 3px rgba(0,0,0,0.2);
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+}
+
+body{
+    margin: 20px;
+    background-color: white;
+}
+
+#pyq{
+    width: 100%;
+    border: none;
+    background-color: white;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.2), -3px -3px 3px rgba(0,0,0,0.2);
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+}
